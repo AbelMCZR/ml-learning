@@ -1,0 +1,1 @@
+print("¡Hola, mundo! Soy un futuro ingeniero de IA.")
